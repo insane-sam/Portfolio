@@ -88,29 +88,22 @@ useEffect(() => {
 
         <div className="skill-card"><span className="skill-icon">☕</span><h3>Java</h3></div>
         <div className="skill-card"><span className="skill-icon">🌱</span><h3>Spring Boot</h3></div>
-        <div className="skill-card"><span className="skill-icon">🔐</span><h3>Spring Security</h3></div>
         <div className="skill-card"><span className="skill-icon">☁️</span><h3>Spring Cloud</h3></div>
-        <div className="skill-card"><span className="skill-icon">🚪</span><h3>API Gateway</h3></div>
 
         <div className="skill-card"><span className="skill-icon">🧩</span><h3>Hibernate / JPA</h3></div>
         <div className="skill-card"><span className="skill-icon">🐘</span><h3>PostgreSQL</h3></div>
-        <div className="skill-card"><span className="skill-icon">🗄️</span><h3>SQL / MySQL</h3></div>
-        <div className="skill-card"><span className="skill-icon">🍃</span><h3>MongoDB</h3></div>
         <div className="skill-card"><span className="skill-icon">⚡</span><h3>Redis</h3></div>
 
-        <div className="skill-card"><span className="skill-icon">🔗</span><h3>REST APIs</h3></div>
         <div className="skill-card"><span className="skill-icon">📦</span><h3>Kafka</h3></div>
         <div className="skill-card"><span className="skill-icon">🐳</span><h3>Docker</h3></div>
         <div className="skill-card"><span className="skill-icon">☁️</span><h3>AWS</h3></div>
         <div className="skill-card"><span className="skill-icon">🔄</span><h3>CI/CD Pipelines</h3></div>
 
         <div className="skill-card"><span className="skill-icon">🔀</span><h3>Microservices</h3></div>
-        <div className="skill-card"><span className="skill-icon">🧠</span><h3>System Design</h3></div>
         <div className="skill-card"><span className="skill-icon">📐</span><h3>LLD / HLD</h3></div>
         <div className="skill-card"><span className="skill-icon">🧩</span><h3>SDLC</h3></div>
 
         <div className="skill-card"><span className="skill-icon">🧠</span><h3>Data Structures & Algorithms</h3></div>
-        <div className="skill-card"><span className="skill-icon">🧱</span><h3>OOP Principles</h3></div>
         <div className="skill-card"><span className="skill-icon">⚛️</span><h3>React.js</h3></div>
         <div className="skill-card"><span className="skill-icon">🟨</span><h3>JavaScript</h3></div>
         <div className="skill-card"><span className="skill-icon">🐙</span><h3>GitHub</h3></div>
